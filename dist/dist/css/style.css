@@ -77,18 +77,14 @@ body {
     text-align: center!important
 }
 
-#services .row i {
-    font-size: 12em;
-    color: #00bcd4
-}
-
 #services .row h3 {
     color: #00bcd4
 }
 
-.service-icon {
+#services .row img {
     width: 180px;
     margin-bottom: 30px;
+    display: inline-block;
 }
 
 @media (max-width:768px) {
