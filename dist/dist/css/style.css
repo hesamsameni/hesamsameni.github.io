@@ -86,6 +86,11 @@ body {
     color: #00bcd4
 }
 
+.service-icon {
+    width: 180px;
+    margin-bottom: 30px;
+}
+
 @media (max-width:768px) {
     #services .row .service-icon {
         margin-bottom: 60px
